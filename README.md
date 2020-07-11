@@ -7,4 +7,4 @@
 </p> 
 
 
-![hackthon 2](./img/hackthon 2.png)
+
